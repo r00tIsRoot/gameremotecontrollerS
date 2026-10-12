@@ -1,0 +1,16 @@
+# secrets / runtime state (PIN 토큰 — 절대 커밋 금지)
+token.txt
+*.log
+
+# python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# PyInstaller outputs
+build/
+build-new/
+dist/
+dist-new/
+*.spec
